@@ -105,9 +105,8 @@
 		</tr>
 		<tr>
 			<td colspan="2">
-				<iframe src="https://www.google.com/maps/d/u/1/edit?mid=1jHQ0Mb0i6jsGm3vWTgswdCm5LUSr4yw&usp=sharing"width="640"height="480"></iframe>
-
-			<td height="50px" bacolor="black" colspan="2">
+				<iframe src="">
+		 <td height="50px" bacolor="black" colspan="2"></td>
 				<font color="white">曾芷榆製作.2024</font>
 			</td>
 			
